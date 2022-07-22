@@ -9,3 +9,5 @@ ALTER USER youruser WITH CREATEDB;
 ALTER USER youruser WITH REPLICATION;
 ALTER USER youruser WITH createrole;
 ALTER USER youruser WITH bypassrls;
+
+test
